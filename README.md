@@ -1,6 +1,6 @@
 ## Telephone Directory
 
-A full stack web application developed to streamline the telephone records within Assam Gas Company Ltd. Duliajan. The system allows employees to easily see the telephone records of AGCL. Administrators can efficiently manage these records by editing, adding and deleting them. This system aims to enhance management and improve efficiency. It is developed using JSP, Html, CSS, Javascript and Tomcat as server.
+A full stack web application developed to streamline the telephone records within Assam Gas Company Ltd. Duliajan. The system allows employees to easily see the telephone records of AGCL. Administrators can efficiently manage these records by editing, adding and deleting them. This system aims to enhance management and improve efficiency. It was developed using JSP, Html, CSS, Javascript and Tomcat as server.
 
 ----------------------------------------------------------------------------------------------
 
